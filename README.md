@@ -1,15 +1,15 @@
-# Trivia Color
-Made with Unity 2019.4.11f1
+# Spread The Grass
+Made with Unity 2020.3.27f1
 
 # Used Technologies
 * DoTween
-* Addressables
 * Cinemachine
-* Scriptables
+* Paint in 3d
+* Brute force-Grass shader
+* Shader graph
 * Singleton pattern
-* Stylized water
-* UI toolkit
+* Post processing
 * Taptics
   
 # Gameplay Video
-[![Trivia Color](https://img.youtube.com/vi/ToPGemjF0HY/0.jpg)](https://www.youtube.com/watch?v=ToPGemjF0HY)
+[![Spread The Grass](https://img.youtube.com/vi/GAStJyT_aOo/0.jpg)](https://www.youtube.com/watch?v=GAStJyT_aOo)
